@@ -16,9 +16,9 @@
 title: Wei-En's World
 email: weienwong.93@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Here is a description for my website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Party time! Excellent!
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "weiensworld.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: weienwong
 github_username: weienwong
 
@@ -28,6 +28,9 @@ markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+
+gems:
+  - jekyll-font-awesome-sass
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
