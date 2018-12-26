@@ -12,13 +12,3 @@ You can find my resume <a href="/resume">here</a>
 Born and raised in Toronto, Canada. Lives in San Diego, California. 
 Software Engineer by day, tinkerer by night!
 
-# Some Blog Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-# More Coming Soon!
