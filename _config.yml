@@ -22,6 +22,9 @@ url: "weiensworld.com" # the base hostname & protocol for your site, e.g. http:/
 twitter_username: weienwong
 github_username: weienwong
 
+github_url: https://github.com/weienwong
+linkedin_url: https://www.linkedin.com/in/weienwong 
+twitter_url: https://twitter.com/weienwong
 # Build settings
 markdown: kramdown
 # theme: minima
