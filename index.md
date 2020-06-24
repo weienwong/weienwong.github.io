@@ -4,11 +4,14 @@ layout: default
 
 # Welcome to Wei-En's World
 
-This is my personal site where I will showcase my projects
-You can find my resume <a href="/resume">here</a>  
+This is my personal site where I will showcase my projects.
 
 # About Me
 
-Born and raised in Toronto, Canada. Lives in San Diego, California. 
 Software Engineer by day, tinkerer by night!
 
+I am passionate about building backend web applications
+
+
+# Hobbies
+I enjoy reading books. [Here](/books) is a list of what I'm currently reading
