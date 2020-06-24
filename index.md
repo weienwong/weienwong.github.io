@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Welcome to Wei-En's World
 
 This is my personal site where I will showcase my projects.
