@@ -12,4 +12,4 @@ I am passionate about building backend web applications
 I enjoy reading books. [Here](/books) is a list of what I'm currently reading
 
 # Contact me
-Best way to reach me is by email: [weienwong@gmail.com](mailto:weienwong@gmail.com)
+Best way to reach me is by email: [wei@weiensworld.com](mailto:wei@weiensworld.com)
